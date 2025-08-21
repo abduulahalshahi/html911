@@ -1,0 +1,134 @@
+header{
+background-color: bisque;
+margin: 7px 4px;
+padding-right:20px ;
+border: 1px solid black;
+text-align: center;
+
+
+
+}
+body{
+background-color: blanchedalmond;
+
+direction: rtl;
+
+
+
+}
+
+h3{
+    margin:10px 500px;
+    text-align: center;
+    padding: 4px;
+}
+
+.ul1{
+    font-size: 30px;
+}
+
+h4{
+ margin:0px 500px;
+    text-align: center;
+    padding: 8px;
+
+    
+ background-color: rgb(219, 129, 18);
+
+
+}
+
+
+
+a{
+    text-decoration: none;
+    color: black;
+  
+}
+
+th{
+
+    text-align: right;
+    background-color: rgb(219, 129, 18);
+    margin-bottom: 0px;
+}
+table{
+
+     background-color: rgb(224, 158, 77);
+    width: 555px;
+    margin-right: 470px;
+    
+       
+}
+
+
+
+h2{
+   
+    border: 1px solid black;
+    width: 300px;
+    padding-top: 10px;
+    padding-right: 90px;
+    padding-bottom: 10px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer p{
+background-color: black;
+    color: aliceblue;
+   border: 1px solid beige;
+   
+   padding-top: 70px;
+    padding-bottom: 9px;
+     padding-left: 10px;
+      padding-right: 0px;
+      margin-right: 0px;
+      margin-bottom: 0%; ;
+      
+}
+.a7 {
+text-align: center;
+    background-color: black;
+    color: aliceblue;
+   border: 1px solid beige;
+   border-radius: 50px;
+   padding-top: 10px;
+    padding-bottom: 9px;
+     padding-left: 10px;
+      padding-right: 0px;
+      margin-right: 60px;
+      width: 300px;
+}
+
+.a8 {
+text-align: center;
+    background-color: rgb(90, 86, 86);
+    color: aliceblue;
+   border: 1px solid beige;
+   border-radius: 50px;
+   padding-top: 10px;
+    padding-bottom: 9px;
+     padding-left: 10px;
+      padding-right: 0px;
+      margin-right: 60px;
+      width: 300px;
+}
+
+
+
+
