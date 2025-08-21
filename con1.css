@@ -1,0 +1,83 @@
+.hea1{
+    background-color: blue;
+    margin: 0px;
+    padding-right: 10px;
+    margin-bottom: 1px;
+    display: flex;
+    justify-content: center;
+
+
+    
+}
+
+#a1{
+    color: black;
+    text-decoration: none;
+     text-align: center;
+     display:flex;
+ 
+   font-size: 20px;
+   margin-bottom: 20px;
+}
+/*----------------------------------*/
+
+.h,h3{
+
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+label{
+    font-family:'Courier New', Courier, monospace ;
+    margin-top: 16%;
+}
+
+input{
+    border-radius: 20px;
+    padding: 7px 20px;
+    margin-bottom: 10px;
+    
+}
+
+textarea{
+    background-color: rgb(231, 231, 243);
+}
+.bat{
+
+  display: flex;
+    justify-content:center;
+    background-color: rgb(108, 108, 162);
+     padding: 9px 9px;
+     margin-right: 1%;
+     width: 100px;
+     border: 0ap;
+     border-radius: 22px;
+     margin-bottom: 6px;
+     text-align: center;
+}
+
+.bat:hover{
+    background-color: aquamarine;
+}
+
+
+/*------------------------------------*/
+.emaile{
+
+       border: 1px solid black;
+       padding: 33px;
+       background-color: cornflowerblue;
+
+}
+
+
+.foo{
+    background-color: blue;
+    border: 1px solid whitesmoke;
+    text-align: center;
+    margin-top: 22px;
+}
+a{
+      text-decoration: none;  
+}
